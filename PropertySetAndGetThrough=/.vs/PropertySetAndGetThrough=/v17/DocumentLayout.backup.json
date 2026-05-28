@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PropertySetAndGetThrough=\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD21D13-F1D6-44FE-B577-F79C4BC657D9}|PropertySetAndGetThrough=\\PropertySetAndGetThrough=.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PropertySetAndGetThrough=\\PropertySetAndGetThrough=\\PropertySetAndGetThrough=.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6DD21D13-F1D6-44FE-B577-F79C4BC657D9}|PropertySetAndGetThrough=\\PropertySetAndGetThrough=.vcxproj|solutionrelative:PropertySetAndGetThrough=\\PropertySetAndGetThrough=.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropertySetAndGetThrough=.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PropertySetAndGetThrough=\\PropertySetAndGetThrough=\\PropertySetAndGetThrough=.cpp",
+              "RelativeDocumentMoniker": "PropertySetAndGetThrough=\\PropertySetAndGetThrough=.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PropertySetAndGetThrough=\\PropertySetAndGetThrough=\\PropertySetAndGetThrough=.cpp",
+              "RelativeToolTip": "PropertySetAndGetThrough=\\PropertySetAndGetThrough=.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-09T16:45:36.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

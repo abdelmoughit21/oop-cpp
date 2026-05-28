@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PureVirtualFunctionsAndAbstractClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26C9040A-E9B5-466D-AEC1-D12B501C6953}|PureVirtualFunctionsAndAbstractClasses\\PureVirtualFunctionsAndAbstractClasses.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PureVirtualFunctionsAndAbstractClasses\\PureVirtualFunctionsAndAbstractClasses\\PureVirtualFunctionsAndAbstractClasses.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26C9040A-E9B5-466D-AEC1-D12B501C6953}|PureVirtualFunctionsAndAbstractClasses\\PureVirtualFunctionsAndAbstractClasses.vcxproj|solutionrelative:PureVirtualFunctionsAndAbstractClasses\\PureVirtualFunctionsAndAbstractClasses.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PureVirtualFunctionsAndAbstractClasses.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PureVirtualFunctionsAndAbstractClasses\\PureVirtualFunctionsAndAbstractClasses\\PureVirtualFunctionsAndAbstractClasses.cpp",
+              "RelativeDocumentMoniker": "PureVirtualFunctionsAndAbstractClasses\\PureVirtualFunctionsAndAbstractClasses.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PureVirtualFunctionsAndAbstractClasses\\PureVirtualFunctionsAndAbstractClasses\\PureVirtualFunctionsAndAbstractClasses.cpp",
+              "RelativeToolTip": "PureVirtualFunctionsAndAbstractClasses\\PureVirtualFunctionsAndAbstractClasses.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-12T14:46:29.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

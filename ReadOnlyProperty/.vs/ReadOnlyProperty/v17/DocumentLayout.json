@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\ReadOnlyProperty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAC6CE0-DD49-4ACF-A77E-4F407F3DD484}|ReadOnlyProperty\\ReadOnlyProperty.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\ReadOnlyProperty\\ReadOnlyProperty\\ReadOnlyProperty.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CAC6CE0-DD49-4ACF-A77E-4F407F3DD484}|ReadOnlyProperty\\ReadOnlyProperty.vcxproj|solutionrelative:ReadOnlyProperty\\ReadOnlyProperty.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadOnlyProperty.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\ReadOnlyProperty\\ReadOnlyProperty\\ReadOnlyProperty.cpp",
+              "RelativeDocumentMoniker": "ReadOnlyProperty\\ReadOnlyProperty.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\ReadOnlyProperty\\ReadOnlyProperty\\ReadOnlyProperty.cpp",
+              "RelativeToolTip": "ReadOnlyProperty\\ReadOnlyProperty.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwDUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-09T15:56:56.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

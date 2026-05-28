@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\AccessSpecifiersModifiers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18B07E27-4A0F-4425-9BBA-7FD94D888311}|AccessSpecifiersModifiers\\AccessSpecifiersModifiers.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\AccessSpecifiersModifiers\\AccessSpecifiersModifiers\\AccessSpecifiersModifiers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{18B07E27-4A0F-4425-9BBA-7FD94D888311}|AccessSpecifiersModifiers\\AccessSpecifiersModifiers.vcxproj|solutionrelative:AccessSpecifiersModifiers\\AccessSpecifiersModifiers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccessSpecifiersModifiers.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\AccessSpecifiersModifiers\\AccessSpecifiersModifiers\\AccessSpecifiersModifiers.cpp",
+              "RelativeDocumentMoniker": "AccessSpecifiersModifiers\\AccessSpecifiersModifiers.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\AccessSpecifiersModifiers\\AccessSpecifiersModifiers\\AccessSpecifiersModifiers.cpp",
+              "RelativeToolTip": "AccessSpecifiersModifiers\\AccessSpecifiersModifiers.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-09T15:05:47.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

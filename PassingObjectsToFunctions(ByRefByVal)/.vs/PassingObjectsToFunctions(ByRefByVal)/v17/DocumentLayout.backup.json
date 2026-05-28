@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PassingObjectsToFunctions(ByRefByVal)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD112D59-1BB8-4C60-BB09-94CFA823B4C0}|PassingObjectsToFunctions(ByRefByVal)\\PassingObjectsToFunctions(ByRefByVal).vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PassingObjectsToFunctions(ByRefByVal)\\PassingObjectsToFunctions(ByRefByVal)\\PassingObjectsToFunctions(ByRefByVal).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD112D59-1BB8-4C60-BB09-94CFA823B4C0}|PassingObjectsToFunctions(ByRefByVal)\\PassingObjectsToFunctions(ByRefByVal).vcxproj|solutionrelative:PassingObjectsToFunctions(ByRefByVal)\\PassingObjectsToFunctions(ByRefByVal).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PassingObjectsToFunctions(ByRefByVal).cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PassingObjectsToFunctions(ByRefByVal)\\PassingObjectsToFunctions(ByRefByVal)\\PassingObjectsToFunctions(ByRefByVal).cpp",
+              "RelativeDocumentMoniker": "PassingObjectsToFunctions(ByRefByVal)\\PassingObjectsToFunctions(ByRefByVal).cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\PassingObjectsToFunctions(ByRefByVal)\\PassingObjectsToFunctions(ByRefByVal)\\PassingObjectsToFunctions(ByRefByVal).cpp",
+              "RelativeToolTip": "PassingObjectsToFunctions(ByRefByVal)\\PassingObjectsToFunctions(ByRefByVal).cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-13T14:36:24.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

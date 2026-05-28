@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\EmployeeExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47821B6F-37D0-4692-B1C4-86AB6A0ACB65}|EmployeeExercise\\EmployeeExercise.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\EmployeeExercise\\EmployeeExercise\\EmployeeExercise.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47821B6F-37D0-4692-B1C4-86AB6A0ACB65}|EmployeeExercise\\EmployeeExercise.vcxproj|solutionrelative:EmployeeExercise\\EmployeeExercise.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeExercise.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\EmployeeExercise\\EmployeeExercise\\EmployeeExercise.cpp",
+              "RelativeDocumentMoniker": "EmployeeExercise\\EmployeeExercise.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\EmployeeExercise\\EmployeeExercise\\EmployeeExercise.cpp",
+              "RelativeToolTip": "EmployeeExercise\\EmployeeExercise.cpp",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAqwLMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-10T16:26:35.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

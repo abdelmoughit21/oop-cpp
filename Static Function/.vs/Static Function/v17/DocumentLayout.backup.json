@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\Static Function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1912C2D7-EBC1-4758-B96F-F4114060D772}|Static Function\\Static Function.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\Static Function\\Static Function\\Static Function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1912C2D7-EBC1-4758-B96F-F4114060D772}|Static Function\\Static Function.vcxproj|solutionrelative:Static Function\\Static Function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Static Function.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\Static Function\\Static Function\\Static Function.cpp",
+              "RelativeDocumentMoniker": "Static Function\\Static Function.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\Static Function\\Static Function\\Static Function.cpp",
+              "RelativeToolTip": "Static Function\\Static Function.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-10T15:30:17.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

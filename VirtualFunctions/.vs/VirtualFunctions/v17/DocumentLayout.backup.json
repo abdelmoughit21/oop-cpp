@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\VirtualFunctions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70565B32-4738-4F1B-80F8-324807BC8F51}|VirtualFunctions\\VirtualFunctions.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\VirtualFunctions\\VirtualFunctions\\VirtualFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70565B32-4738-4F1B-80F8-324807BC8F51}|VirtualFunctions\\VirtualFunctions.vcxproj|solutionrelative:VirtualFunctions\\VirtualFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VirtualFunctions.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\VirtualFunctions\\VirtualFunctions\\VirtualFunctions.cpp",
+              "RelativeDocumentMoniker": "VirtualFunctions\\VirtualFunctions.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\VirtualFunctions\\VirtualFunctions\\VirtualFunctions.cpp",
+              "RelativeToolTip": "VirtualFunctions\\VirtualFunctions.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T17:53:21.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\AccessSpecifiers(Modifiers)Review\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C995AA2-0A1E-4C41-9224-7341C3765AAD}|AccessSpecifiers(Modifiers)Review\\AccessSpecifiers(Modifiers)Review.vcxproj|C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\AccessSpecifiers(Modifiers)Review\\AccessSpecifiers(Modifiers)Review\\AccessSpecifiers(Modifiers)Review.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C995AA2-0A1E-4C41-9224-7341C3765AAD}|AccessSpecifiers(Modifiers)Review\\AccessSpecifiers(Modifiers)Review.vcxproj|solutionrelative:AccessSpecifiers(Modifiers)Review\\AccessSpecifiers(Modifiers)Review.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccessSpecifiers(Modifiers)Review.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\AccessSpecifiers(Modifiers)Review\\AccessSpecifiers(Modifiers)Review\\AccessSpecifiers(Modifiers)Review.cpp",
+              "RelativeDocumentMoniker": "AccessSpecifiers(Modifiers)Review\\AccessSpecifiers(Modifiers)Review.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Learning c\u002B\u002B\\AccessSpecifiers(Modifiers)Review\\AccessSpecifiers(Modifiers)Review\\AccessSpecifiers(Modifiers)Review.cpp",
+              "RelativeToolTip": "AccessSpecifiers(Modifiers)Review\\AccessSpecifiers(Modifiers)Review.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T15:09:30.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
